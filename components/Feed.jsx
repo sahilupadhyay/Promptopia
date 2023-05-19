@@ -1,7 +1,7 @@
 'use client';
 
 import { useState, useEffect} from "react";
-import PromptCard from "@components/Promptcard";
+import PromptCard from "@components/PromptCard";
 
 
 const PromptCardList = ({data, handleTagClick}) => {
